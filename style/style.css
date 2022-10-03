@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -237,5 +237,6 @@ margin-bottom: 85px;
 
 .footer {
     background: rgba(255, 113, 67, 0.27);
+    padding: 38px 0 48px;
 }
 
